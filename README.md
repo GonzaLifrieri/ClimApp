@@ -1,6 +1,6 @@
 # ClimApp
 
-Aplicacion para consultar el clima construido en React, utilizando ContextProvider. Utilizo la API de OpenWeather
+Aplicacion para consultar el clima construido en React, utilizando ContextProvider. Utilizo la API de <a href="[https://min-api.cryptocompare.com/documentation](https://openweathermap.org/api)](https://openweathermap.org/api)" target="blank">OpenWeather</a>
 
 Para clonar y ver el repositorio debes:
 
